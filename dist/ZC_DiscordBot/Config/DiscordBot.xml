@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZCDiscordBot>
+  <Discord enabled="false" botToken="PEGAR_TOKEN_AQUI" channelId="PEGAR_ID_CANAL_AQUI" pollSeconds="2" />
+  <Commands prefix="!" status="estado" players="jugadores" moon="luna" ranking="ranking" boss="boss" restart="reinicio" version="version" />
+  <Restart timeZoneId="America/Argentina/Buenos_Aires" announceOnline="true">
+    <Time value="07:00" />
+    <Warning minutes="30" /><Warning minutes="10" /><Warning minutes="5" /><Warning minutes="1" />
+  </Restart>
+  <BloodMoon updateSeconds="60" rankingRepostCooldownSeconds="60" markPreviousMessage="true" />
+  <Messages serverName="ZONA CERO" />
+  <Logging verbose="false" />
+</ZCDiscordBot>

@@ -1,0 +1,7 @@
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/bin/Release/ZC_DiscordBot.dll
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/bin/Release/ZC_DiscordBot.pdb
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/Release/ZC_DiscordBot.csproj.AssemblyReference.cache
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/Release/ZC_DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/Release/ZC_DiscordBot.csproj.CoreCompileInputs.cache
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/Release/ZC_DiscordBot.dll
+/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/Release/ZC_DiscordBot.pdb

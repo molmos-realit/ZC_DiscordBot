@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModInfo>
+  <Name value="ZC_DiscordBot"/>
+  <DisplayName value="ZC Discord Bot"/>
+  <Description value="Estado, eventos Boss, ranking de Luna de Sangre y reinicios en Discord."/>
+  <Author value="Zona Cero"/>
+  <Version value="1.2.0"/>
+  <Website value=""/>
+</ModInfo>

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/ZC_DiscordBot.csproj": {}
+  },
+  "projects": {
+    "/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/ZC_DiscordBot.csproj": {
+      "version": "1.2.0",
+      "restore": {
+        "projectUniqueName": "/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/ZC_DiscordBot.csproj",
+        "projectName": "ZC_DiscordBot",
+        "projectPath": "/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/ZC_DiscordBot.csproj",
+        "packagesPath": "/Users/mauricioolmos/.nuget/packages/",
+        "outputPath": "/Users/mauricioolmos/Develop/mod/ZC_DiscordBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mauricioolmos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/10.0.401/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.401/libexec/sdk/10.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
